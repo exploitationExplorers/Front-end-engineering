@@ -13,3 +13,4 @@ babel的原理是将es6代码转换成抽象语法树（AST），然后对AST进
 babel的配置文件是.babelrc，可以配置presets和plugins
 
 presets是预设，可以配置多个预设，如@babel/preset-env，@babel/preset-react等
+
